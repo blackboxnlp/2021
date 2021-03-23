@@ -1,3 +1,5 @@
+# BlackboxNLP 2021
+
 There will be a fourth edition of BlackboxNLP! The workshop will be collocated with EMNLP2020
 
 ## Venue
@@ -11,14 +13,6 @@ The workshop will be collocated with EMNLP 2021.
 - TBD -- Notification of acceptance.
 - September 15, 2021 -- Camera-ready papers due.
 - November 10-11, 2021 -- Workshop.
-
-## Workshop programme 
-
-TBD
-
-## Invited speakers
-
-TBD
 
 ## Workshop description
 
@@ -117,6 +111,15 @@ He authored two articles oninvestigating the propensity of language models to ca
 At the first edition of BlackBoxNLP, he won the Best Paper Award with his work on probing and improving an LSTM’s ability to track number agreement information.
 
 ## Program committee
+
+## Workshop programme 
+
+TBD
+
+## Invited speakers
+
+TBD
+
 
 ## Anti-Harassment Policy
 BlackboxNLP 2021 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
