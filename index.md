@@ -1,6 +1,6 @@
 # BlackboxNLP 2021
 
-There will be a fourth edition of BlackboxNLP! The workshop will be collocated with EMNLP2020
+There will be a fourth edition of BlackboxNLP! The workshop will be collocated with EMNLP2021.
 
 ## Venue
 
