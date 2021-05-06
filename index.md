@@ -67,9 +67,7 @@ Authors of accepted archival papers should upload the final version of their pap
 ## Organizers
 
 ### Jasmijn Bastings
-Jasmijn Bastings(bastings@google.com) is a research engineer at Google. 
-She got her PhD fromthe University of Amsterdam on Interpretable and Linguistically-informed Deep Learning for NLP.
-Jasmijn’s current research focuses on interpretable NLP models and predictions, and she authoredtwo BlackboxNLP papers (2018, 2020) on generalisation and saliency methods, as well as an ACLpaper (2019) on interpretable neural predictions using differentiable binary variables.
+Jasmijn Bastings (bastings[-at-]google.com) is a research engineer at Google. She got her PhD fromthe University of Amsterdam on Interpretable and Linguistically-informed Deep Learning for NLP. Jasmijn's current research focuses on interpretable NLP models and predictions, and she authored two BlackboxNLP papers (2018, 2020) on generalisation and saliency methods, as well as an ACL paper (2019) on interpretable neural predictions using differentiable binary variables.
 
 ### Yonatan Belinkov
 Yonatan Belinkov (belinkov@technion.ac.il) is an assistant professor at the Henry and MarilynTaub Faculty of Computer Science at the Technion. 
@@ -77,8 +75,8 @@ He has previosuly been a Postdoctoral Fellowat the Harvard School of Engineering
 His recent research focuses on interpretability androbustness of neural network models of language. 
 His research has been published at leading NLPand ML venues.  
 His PhD dissertation at MIT analyzed internal language representations in deeplearning models. 
-He has been awarded the Harvard Mind, Brain, and Behavior Postdoctoral Fellowshipand the Azrieli Early Career Faculty Fellowship. 
-He co-organised the second and third editions ofBlackboxNLP and the first and second machine translation robustness tasks at WMT. 
+He has been awarded the Harvard Mind, Brain, and Behavior Postdoctoral Fellowship and the Azrieli Early Career Faculty Fellowship. 
+He co-organised the second and third editions of BlackboxNLP and the first and second machine translation robustness tasks at WMT. 
 
 ### Dieuwke Hupkes
 Dieuwke Hupkes (dieuwkehupkes@fb.com) is a Research scientist at Facebook AI Research, and the scientific manager of the Amsterdam unit of the [ELLIS society](https://ellis.eu/).
@@ -87,17 +85,17 @@ Developing methods to interpret and interact with neural networks has therefore 
 She authored several articles directly relevant to the workshop, two of them published in a top AI journal (Journal of Artificial Intelligence), and she is co-organizing a workshop on compositionality, neural networks, and the brain, held at the Lorentz Center in the summer of 2019.
 
 ### Emmanuel Dupoux
-Emmanuel Dupoux(emmanuel.dupoux@gmail.com) is full professor at the Ecole des Hautes Etudesen Sciences Sociales (EHESS), and directs the Cognitive Machine Learning team at the Ecole NormaleSupérieure (ENS) in Paris and INRIA. 
+Emmanuel Dupoux (emmanuel.dupoux@gmail.com) is full professor at the Ecole des Hautes Etudesen Sciences Sociales (EHESS), and directs the Cognitive Machine Learning team at the Ecole NormaleSupérieure (ENS) in Paris and INRIA. 
 Since 2018, he has been a part-time research scientist atFacebook AI Research. 
-His research mixes developmental science, cognitive neuroscience, and machinelearning, with a focus on the reverse engineering of infant language and cognitive development usingunsupervised or weakly supervised learning.  
+His research mixes developmental science, cognitive neuroscience, and machinelearning, with a focus on the reverse engineering of infant language and cognitive development using unsupervised or weakly supervised learning.  
 He has directed the CNRS Laboratoire de SciencesCognitives et Psycholinguistique for 10 years. 
-He is the recipient of an Advanced ERC grant, theorganiser of the Zero Resource Speech Challenge (2015, 2017, 2019, 2020), the Intuitive PhysicsBenchmark (2019) and led in 2017 a Jelinek Summer Workshop at CMU on multimodal speechlearning
+He is the recipient of an Advanced ERC grant, theorganiser of the Zero Resource Speech Challenge (2015, 2017, 2019, 2020), the Intuitive Physics Benchmark (2019) and led in 2017 a Jelinek Summer Workshop at CMU on multimodal speechlearning
 
 ### Yuval Pinter
 Yuval Pinter (uvp@gatech.edu) is a PhD candidate at Georgia Institute of Technology. 
 His mainfocus is on word-level representations in deep learning systems.  
 He authored three papers on thetopic of NLP neural model interpretation. 
-In addition to regularly serving on program committees forNLP and AI venues, he co-organised the TREC LiveQA competition for its three years of existence(2015–2017) including administering the real-time challenge, and served as publicity and social mediaco-chair at NAACL 2019.
+In addition to regularly serving on program committees forNLP and AI venues, he co-organised the TREC Live QA competition for its three years of existence (2015–2017) including administering the real-time challenge, and served as publicity and social mediaco-chair at NAACL 2019.
 
 ### Hassan Sajjad 
 Hassan Sajjadd (hsajjad@hbku.edu.qa) is a research scientist at the Arabic Language Technologies group, Qatar Computing Research Institute - HBKU. 
@@ -105,9 +103,9 @@ His recent research focuses on developing methods to analyze and interpret neura
 His work on the analysis of deep models is recognized at various prestigious research venues such as ACL, NAACL, ICLR, and AAAI.  
 
 ### Mario Giulianelli
-Mario Giulianelli(m.giulianelli@uva.nl) is a PhD student at the University of Amsterdam. 
-He investigates whether neural networks can be employed as computational models of language learn-ing and use, and works on proposing interpretable and controllable neural architectures which moreexplicitly emulate the processes underlying human language cognition. 
-He authored two articles oninvestigating the propensity of language models to capture syntactic and semantic phenomena, presented at EMNLP and ACL. 
+Mario Giulianelli (m.giulianelli@uva.nl) is a PhD student at the University of Amsterdam. 
+He investigates whether neural networks can be employed as computational models of language learning and use, and works on proposing interpretable and controllable neural architectures which more explicitly emulate the processes underlying human language cognition. 
+He authored two articles on investigating the propensity of language models to capture syntactic and semantic phenomena, presented at EMNLP and ACL. 
 At the first edition of BlackBoxNLP, he won the Best Paper Award with his work on probing and improving an LSTM’s ability to track number agreement information.
 
 ## Program committee
@@ -119,7 +117,6 @@ TBD
 ## Invited speakers
 
 TBD
-
 
 ## Anti-Harassment Policy
 BlackboxNLP 2021 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
