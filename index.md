@@ -121,8 +121,7 @@ TBD
 ### Ana Marasović
 Ana Marasović is a postdoctoral researcher at the Allen Institute for AI (AllenNLP Team) and at the University of Washington (Noah's ARK). Her research interests span natural language processing, explainable AI, and multimodality. She is currently focused on developing and evaluating models that provide readable explanations of their decision process for tasks requiring advanced reasoning abilities. She received her Ph.D. in the Heidelberg University NLP Group where she worked on learning with limited labeled data for discourse-oriented tasks.
 
-### [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/)
-<img src="https://staff.fnwi.uva.nl/w.zuidema/wp-content/uploads/jelle2015-300x300.jpg" width="100px">
+### [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/) <img src="https://staff.fnwi.uva.nl/w.zuidema/wp-content/uploads/jelle2015-300x300.jpg" width="100px">
 
 Willem Zuidema is associate professor of computational linguistics and cognitive science at the Institute for Logic, Language and Computation, University of Amsterdam. His lab works on deep learning models for NLP, with a focus on interpretability, bias, cognitive and neural relevance, and the relation between language and music. Zuidema and his students were early contributors to deep learning models in NLP, with work on neural parsing (from 2008), tree-shaped neurals networks (from 2012), and diagnostic classification/probing (from 2016). Recent work includes the integration of formal logic and deep learning, representational stability analysis, contextual decomposition and knowledge distillation.
 
