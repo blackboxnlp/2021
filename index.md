@@ -67,7 +67,7 @@ Authors of accepted archival papers should upload the final version of their pap
 ## Organizers
 
 ### Jasmijn Bastings
-Jasmijn Bastings (bastings[-at-]google.com) is a research engineer at Google. She got her PhD fromthe University of Amsterdam on Interpretable and Linguistically-informed Deep Learning for NLP. Jasmijn's current research focuses on interpretable NLP models and predictions, and she authored two BlackboxNLP papers (2018, 2020) on generalisation and saliency methods, as well as an ACL paper (2019) on interpretable neural predictions using differentiable binary variables.
+Jasmijn Bastings (bastings[-at-]google.com) is a researcher at Google Amsterdam, having joined Google in Berlin late 2019. She holds a PhD from ILLC, University of Amsterdam, on the topic of Interpretable and Linguistically-informed Deep Learning for NLP. Recently, Jasmijn has been focusing on explainability, fairness and robustness within natural language processing. She authored two BlackboxNLP papers (2018, 2020) on generalisation and saliency methods, as well as an ACL paper (2019) on interpretable neural predictions using differentiable binary variables.
 
 ### Yonatan Belinkov
 Yonatan Belinkov (belinkov@technion.ac.il) is an assistant professor at the Henry and MarilynTaub Faculty of Computer Science at the Technion. 
@@ -117,6 +117,7 @@ TBD
 ## Invited speakers
 
 ### Sara Hooker
+Sara Hooker is a research scientist at Google Brain working on training models that go beyond test-set accuracy to fulfill multiple desiderata. Her research interests gravitate towards interpretability, model compression and fairness. She is a founding organizer of the cross-institutional Trustworthy ML Initiative, a forum and seminar series dedicated to trustworthy machine learning research. Her current work centers on building tools that help human-in-the-loop audits of model behavior.
 
 ### Ana Marasović
 Ana Marasović is a postdoctoral researcher at the Allen Institute for AI (AllenNLP Team) and at the University of Washington (Noah's ARK). Her research interests span natural language processing, explainable AI, and multimodality. She is currently focused on developing and evaluating models that provide readable explanations of their decision process for tasks requiring advanced reasoning abilities. She received her Ph.D. in the Heidelberg University NLP Group where she worked on learning with limited labeled data for discourse-oriented tasks.
