@@ -85,7 +85,7 @@ Willem Zuidema is associate professor of computational linguistics and cognitive
 Jasmijn Bastings (bastings[-at-]google.com) is a researcher at Google Amsterdam, having joined Google in Berlin late 2019. She holds a PhD from ILLC, University of Amsterdam, on the topic of Interpretable and Linguistically-informed Deep Learning for NLP. Recently, Jasmijn has been focusing on explainability, fairness and robustness within natural language processing. She authored two BlackboxNLP papers (2018, 2020) on generalisation and saliency methods, as well as an ACL paper (2019) on interpretable neural predictions using differentiable binary variables.
 
 ### Yonatan Belinkov
-Yonatan Belinkov (belinkov@technion.ac.il) is an assistant professor at the Henry and MarilynTaub Faculty of Computer Science at the Technion. 
+Yonatan Belinkov (belinkov@technion.ac.il) is an assistant professor at the Henry and Marilyn Taub Faculty of Computer Science at the Technion. 
 He has previosuly been a Postdoctoral Fellowat the Harvard School of Engineering and Applied Sciences (SEAS) and the MIT Computer Scienceand Artificial Intelligence Laboratory (CSAIL). 
 His recent research focuses on interpretability androbustness of neural network models of language. 
 His research has been published at leading NLPand ML venues.  
@@ -107,10 +107,9 @@ He has directed the CNRS Laboratoire de SciencesCognitives et Psycholinguistique
 He is the recipient of an Advanced ERC grant, theorganiser of the Zero Resource Speech Challenge (2015, 2017, 2019, 2020), the Intuitive Physics Benchmark (2019) and led in 2017 a Jelinek Summer Workshop at CMU on multimodal speechlearning
 
 ### Yuval Pinter
-Yuval Pinter (uvp@gatech.edu) is a PhD candidate at Georgia Institute of Technology. 
-His mainfocus is on word-level representations in deep learning systems.  
-He authored three papers on thetopic of NLP neural model interpretation. 
-In addition to regularly serving on program committees forNLP and AI venues, he co-organised the TREC Live QA competition for its three years of existence (2015–2017) including administering the real-time challenge, and served as publicity and social mediaco-chair at NAACL 2019.
+Yuval Pinter (me@yuvalpinter.com) is an incoming Senior Lecturer in the Computer Science department at Ben-Gurion University. 
+He authored three papers on the topic of NLP neural model interpretation, looking into attention modules and character-level LSTMs. 
+He co-organised the TREC Live QA competition for its three years of existence (2015–2017) including administering the real-time challenge, and served as publicity and social media co-chair at NAACL 2019.
 
 ### Hassan Sajjad 
 Hassan Sajjadd (hsajjad@hbku.edu.qa) is a research scientist at the Arabic Language Technologies group, Qatar Computing Research Institute - HBKU. 
