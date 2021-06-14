@@ -38,6 +38,8 @@ The topics of the workshop will include, but are not limited to:
 BlackboxNLP 2021 is the fourth BlackboxNLP workshop. 
 The programme and proceedings of the previous editions, which were held at EMNLP 2018, ACL 2019 and EMNLP 2020, can be found [here](https://blackboxnlp.github.io/2018/), [here](https://blackboxnlp.github.io/2019/) and [here](https://blackboxnlp.github.io/2020/).
 
+The official call for papers is available [here](cfp.txt).
+
 ## Paper submission 
 
 We accept two types of papers
