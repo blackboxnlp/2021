@@ -38,6 +38,8 @@ The topics of the workshop will include, but are not limited to:
 BlackboxNLP 2021 is the fourth BlackboxNLP workshop. 
 The programme and proceedings of the previous editions, which were held at EMNLP 2018, ACL 2019 and EMNLP 2020, can be found [here](https://blackboxnlp.github.io/2018/), [here](https://blackboxnlp.github.io/2019/) and [here](https://blackboxnlp.github.io/2020/).
 
+The official call for papers is available [here](cfp.txt).
+
 ## Paper submission 
 
 We accept two types of papers
@@ -64,13 +66,28 @@ without any restrictions on when they were posted.
 Authors of accepted archival papers should upload the final version of their paper to the submission system by the camera-ready deadline. Authors may use one extra page to address reviewer comments, for a total of nine pages. 
 
 
+## Invited speakers
+
+### [Sara Hooker](https://www.sarahooker.me/)
+<img src="https://github.com/blackboxnlp/blackboxnlp.github.io/blob/main/sara_hooker.png?raw=true" width="100px" align="right">
+Sara Hooker is a research scientist at Google Brain working on training models that go beyond test-set accuracy to fulfill multiple desiderata. Her research interests gravitate towards interpretability, model compression and fairness. She is a founding organizer of the cross-institutional Trustworthy ML Initiative, a forum and seminar series dedicated to trustworthy machine learning research. Her current work centers on building tools that help human-in-the-loop audits of model behavior.
+
+### [Ana Marasović](https://www.anamarasovic.com/) 
+<img src="https://github.com/blackboxnlp/blackboxnlp.github.io/blob/main/ana_marasovic.png?raw=true" width="100px" align="right">
+Ana Marasović is a postdoctoral researcher at the Allen Institute for AI (AllenNLP Team) and at the University of Washington (Noah's ARK). Her research interests span natural language processing, explainable AI, and multimodality. She is currently focused on developing and evaluating models that provide readable explanations of their decision process for tasks requiring advanced reasoning abilities. She received her Ph.D. in the Heidelberg University NLP Group where she worked on learning with limited labeled data for discourse-oriented tasks.
+
+### [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/) 
+<img src="https://staff.fnwi.uva.nl/w.zuidema/wp-content/uploads/jelle2015-300x300.jpg" width="100px"  align="right">
+Willem Zuidema is associate professor of computational linguistics and cognitive science at the Institute for Logic, Language and Computation, University of Amsterdam. His lab works on deep learning models for NLP, with a focus on interpretability, bias, cognitive and neural relevance, and the relation between language and music. Zuidema and his students were early contributors to deep learning models in NLP, with work on neural parsing (from 2008), tree-shaped neurals networks (from 2012), and diagnostic classification/probing (from 2016). Recent work includes the integration of formal logic and deep learning, representational stability analysis, contextual decomposition and knowledge distillation.
+
+
 ## Organizers
 
 ### Jasmijn Bastings
-Jasmijn Bastings (bastings[-at-]google.com) is a research engineer at Google. She got her PhD fromthe University of Amsterdam on Interpretable and Linguistically-informed Deep Learning for NLP. Jasmijn's current research focuses on interpretable NLP models and predictions, and she authored two BlackboxNLP papers (2018, 2020) on generalisation and saliency methods, as well as an ACL paper (2019) on interpretable neural predictions using differentiable binary variables.
+Jasmijn Bastings (bastings[-at-]google.com) is a researcher at Google Amsterdam, having joined Google in Berlin late 2019. She holds a PhD from ILLC, University of Amsterdam, on the topic of Interpretable and Linguistically-informed Deep Learning for NLP. Recently, Jasmijn has been focusing on explainability, fairness and robustness within natural language processing. She authored two BlackboxNLP papers (2018, 2020) on generalisation and saliency methods, as well as an ACL paper (2019) on interpretable neural predictions using differentiable binary variables.
 
 ### Yonatan Belinkov
-Yonatan Belinkov (belinkov@technion.ac.il) is an assistant professor at the Henry and MarilynTaub Faculty of Computer Science at the Technion. 
+Yonatan Belinkov (belinkov@technion.ac.il) is an assistant professor at the Henry and Marilyn Taub Faculty of Computer Science at the Technion. 
 He has previosuly been a Postdoctoral Fellowat the Harvard School of Engineering and Applied Sciences (SEAS) and the MIT Computer Scienceand Artificial Intelligence Laboratory (CSAIL). 
 His recent research focuses on interpretability androbustness of neural network models of language. 
 His research has been published at leading NLPand ML venues.  
@@ -92,10 +109,9 @@ He has directed the CNRS Laboratoire de SciencesCognitives et Psycholinguistique
 He is the recipient of an Advanced ERC grant, theorganiser of the Zero Resource Speech Challenge (2015, 2017, 2019, 2020), the Intuitive Physics Benchmark (2019) and led in 2017 a Jelinek Summer Workshop at CMU on multimodal speechlearning
 
 ### Yuval Pinter
-Yuval Pinter (uvp@gatech.edu) is a PhD candidate at Georgia Institute of Technology. 
-His mainfocus is on word-level representations in deep learning systems.  
-He authored three papers on thetopic of NLP neural model interpretation. 
-In addition to regularly serving on program committees forNLP and AI venues, he co-organised the TREC Live QA competition for its three years of existence (2015–2017) including administering the real-time challenge, and served as publicity and social mediaco-chair at NAACL 2019.
+Yuval Pinter (me@yuvalpinter.com) is an incoming Senior Lecturer in the Computer Science department at Ben-Gurion University. 
+He authored three papers on the topic of NLP neural model interpretation, looking into attention modules and character-level LSTMs. 
+He co-organised the TREC Live QA competition for its three years of existence (2015–2017) including administering the real-time challenge, and served as publicity and social media co-chair at NAACL 2019.
 
 ### Hassan Sajjad 
 Hassan Sajjadd (hsajjad@hbku.edu.qa) is a research scientist at the Arabic Language Technologies group, Qatar Computing Research Institute - HBKU. 
@@ -114,16 +130,6 @@ At the first edition of BlackBoxNLP, he won the Best Paper Award with his work o
 
 TBD
 
-## Invited speakers
-
-### Sara Hooker
-
-### Ana Marasović
-Ana Marasović is a postdoctoral researcher at the Allen Institute for AI (AllenNLP Team) and at the University of Washington (Noah's ARK). Her research interests span natural language processing, explainable AI, and multimodality. She is currently focused on developing and evaluating models that provide readable explanations of their decision process for tasks requiring advanced reasoning abilities. She received her Ph.D. in the Heidelberg University NLP Group where she worked on learning with limited labeled data for discourse-oriented tasks.
-
-### [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/) <img src="https://staff.fnwi.uva.nl/w.zuidema/wp-content/uploads/jelle2015-300x300.jpg" width="100px">
-
-Willem Zuidema is associate professor of computational linguistics and cognitive science at the Institute for Logic, Language and Computation, University of Amsterdam. His lab works on deep learning models for NLP, with a focus on interpretability, bias, cognitive and neural relevance, and the relation between language and music. Zuidema and his students were early contributors to deep learning models in NLP, with work on neural parsing (from 2008), tree-shaped neurals networks (from 2012), and diagnostic classification/probing (from 2016). Recent work includes the integration of formal logic and deep learning, representational stability analysis, contextual decomposition and knowledge distillation.
 
 ## Anti-Harassment Policy
 BlackboxNLP 2021 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
