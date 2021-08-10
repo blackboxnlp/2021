@@ -9,7 +9,7 @@ The workshop will be collocated with EMNLP 2021.
 ## Important dates
 
 - August 5, 2021 -- Submission deadline.
-- TBD -- Retraction of workshop papers accepted for EMNLP.
+- August 27, 2021 -- Retraction of workshop papers accepted for EMNLP.
 - September 3, 2021 -- Notification of acceptance.
 - September 15, 2021 -- Camera-ready papers due.
 - November 11, 2021 -- Workshop.
