@@ -1,16 +1,13 @@
 # BlackboxNLP 2021
 
-There will be a fourth edition of BlackboxNLP! The workshop will be collocated with EMNLP2021.
-
-## Venue
-
-The workshop will be collocated with EMNLP 2021.
+The fourth edition of BlackboxNLP will be collocated with EMNLP 2021. 
+The workshop is scheduled to be a hybrid event, that will take both on site, in Punta Cana, but will also be accessible online.
 
 ## Important dates
 
-- August 5, 2021 -- Submission deadline.
-- August 27, 2021 -- Retraction of workshop papers accepted for EMNLP.
-- September 3, 2021 -- Notification of acceptance.
+- ~~August 5, 2021 -- Submission deadline.~~
+- ~~August 27, 2021 -- Retraction of workshop papers accepted for EMNLP.~~
+- ~~September 3, 2021 -- Notification of acceptance.~~
 - September 15, 2021 -- Camera-ready papers due.
 - November 11, 2021 -- Workshop.
 
