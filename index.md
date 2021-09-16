@@ -1,7 +1,6 @@
 # BlackboxNLP 2021
 
 The fourth edition of BlackboxNLP will be collocated with EMNLP 2021. 
-The workshop is scheduled to be a hybrid event, that will take both on site, in Punta Cana, but will also be accessible online.
 
 ## Important dates
 
