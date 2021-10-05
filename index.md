@@ -1,6 +1,6 @@
 # BlackboxNLP 2021
 
-The fourth edition of BlackboxNLP will be collocated with EMNLP 2021. The workshop programme will be very soon available [here](https://blackboxnlp.github.io/program.html).
+The fourth edition of BlackboxNLP will be collocated with EMNLP 2021. The workshop programme is available [here](https://blackboxnlp.github.io/program.html).
 
 ## Important dates
 
