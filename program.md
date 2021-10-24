@@ -7,7 +7,7 @@ and followed by a live Q&A (unless the schedule indicates otherwise). Questions 
 Poster sessions will be held on Gather.town. 
 **The links to the zoom session and Gather.town space can be found on the Underline page of the workshop** (only accessible with conference registration).
 
-You can find the programme [here](https://docs.google.com/spreadsheets/d/1SLJ07nMi6VoVOg5iEPSOv5v4cq_WopD8T0FJlr7X_wU/edit?usp=sharing).
+<!-- You can find the programme [here](https://docs.google.com/spreadsheets/d/1SLJ07nMi6VoVOg5iEPSOv5v4cq_WopD8T0FJlr7X_wU/edit?usp=sharing). -->
 
 Summary of the programme (Time indications: Punta Cana)
 ---------------------------
