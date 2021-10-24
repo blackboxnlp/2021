@@ -16,11 +16,11 @@ Summary of the programme (Time indications: Punta Cana)
 | Opening remarks                       |  2:00 - 2:15  | Zoom                  |
 | Keynote 1 (w/ Q&A) -- Willem Zuidema  |  2:15 - 3:00  | Zoom                  |
 | Break                                                 |                       |
-| Oral presentations -- Session 1       |  3:15 - 4:00  | Zoom                  |
+| Oral presentation session 1           |  3:15 - 4:00  | Zoom                  |
 | Break                                                 |                       |
 | Poster session 1                      |  6:30 - 8:00  | gather.town           |
 | Break                                                 |                       |
-| Oral presentations -- Session 2       |  6:15 - 7:00  | Zoom                  |
+| Oral presentation session 2           |  6:15 - 7:00  | Zoom                  |
 | Break                                                 |                       |
 | Keynote 2 (w/o Q&A) -- Ana Marasovic  |  7:30 - 8:00  | Zoom                  |
 | Keynote 3 (w/o Q&A) -- Sara Hooker    |  8:00 - 8:30  | Zoom                  |
@@ -30,16 +30,16 @@ Summary of the programme (Time indications: Punta Cana)
 |-------------------------------------------------------|                       |
 | Opening remarks and best paper award  |  9:00 - 9:15  | On-site & Zoom        |
 | Keynote 4 (w/ Q&A) -- Willem Zuidema  |  9:15 - 10:00 | On-site & Zoom        |
-| Oral presentations -- Session 3       | 10:00 - 10:30 | On-site & Zoom        |
+| Oral presentation session 3           | 10:00 - 10:30 | On-site & Zoom        |
 | Coffee break                                          |                       |
 | Poster session 2                      | 11:00 - 12:00 | gather.town           |
 | Lunch break                                           |                       |
 | Keynote 5 (w/ Q&A) -- Sara Hooker     | 13:00 - 13:45 | On-site & Zoom        |
-| Oral presentations -- Session 4       | 13:45 - 14:15 | On-site & Zoom        |
+| Oral presentation session 4           | 13:45 - 14:15 | On-site & Zoom        |
 | Coffee break                                          |                       |
 | Poster session 3                      | 14:45 - 16:15 | On-site & gather.town |
 | Coffee break                                          |                       |
-| Oral presentations -- Session 5       | 16:45 - 17:15 | On-site & Zoom        |
+| Oral presentation session 5           | 16:45 - 17:15 | On-site & Zoom        |
 | Keynote 6 (w/o Q&A) -- Ana Marasovic  | 17:15 - 18:00 | On-site & Zoom        |
 | Closing remarks                       | 18:00 - 18:15 | On-site & Zoom        |
 
@@ -47,12 +47,30 @@ Summary of the programme (Time indications: Punta Cana)
 
 Oral presentation session 1 (Time indications: Punta Cana)
 ---------------------------
+- **3:15 - 3:30** _To what extent do human explanations of model behavior align with actual model behavior?_ Grusha Prasad, Yixin Nie, Mohit Bansal, Robin Jia, Douwe Kiela and Adina Williams.
+- **3:30 - 3:45** _Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings_. Laura Aina and Tal Linzen.
+- **3:45 - 4:00** _The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation_. Hendrik Schuff, Hsiu-Yu Yang, Heike Adel and Ngoc Thang Vu.
 
 Oral presentation session 2 (Time indications: Punta Cana)
 ---------------------------
+- **6:15 - 6:30** _On the Limits of Minimal Pairs in Contrastive Evaluation_. Jannis Vamvas and Rico Sennrich.
+- **6:30 - 6:45** _Test Harder than You Train: Probing with Extrapolation Splits_. Jenny Kunz and Marco Kuhlmann.
+- **6:45 - 7:00** _What Models Know About Their Attackers: Deriving Attacker Information From Latent Representations_. Zhouhang Xie, Jonathan Brophy, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Zayd Hammoudeh, Daniel Lowd and Sameer Singh.
 
 Oral presentation session 3 (Time indications: Punta Cana)
 ---------------------------
+- **10:00 - 10:15** _On the Limits of Minimal Pairs in Contrastive Evaluation_. Jannis Vamvas and Rico Sennrich.
+- **10:15 - 10:30** _Test Harder than You Train: Probing with Extrapolation Splits_. Jenny Kunz and Marco Kuhlmann.
+
+Oral presentation session 4 (Time indications: Punta Cana)
+---------------------------
+- **13:45 - 14:00** _What Models Know About Their Attackers: Deriving Attacker Information From Latent Representations_. Zhouhang Xie, Jonathan Brophy, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Zayd Hammoudeh, Daniel Lowd and Sameer Singh.
+- **14:00 - 14:15** _To what extent do human explanations of model behavior align with actual model behavior?_ Grusha Prasad, Yixin Nie, Mohit Bansal, Robin Jia, Douwe Kiela and Adina Williams.
+
+Oral presentation session 5 (Time indications: Punta Cana)
+---------------------------
+- **16:45 - 17:00** _Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings_. Laura Aina and Tal Linzen.
+- **17:00 - 17:15** _The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation_. Hendrik Schuff, Hsiu-Yu Yang, Heike Adel and Ngoc Thang Vu.
 
 Poster session 1
 ----------------
