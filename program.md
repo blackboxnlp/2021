@@ -12,7 +12,7 @@ You can find the programme [here](https://docs.google.com/spreadsheets/d/1SLJ07n
 Summary of the programme (Time indications: Punta Cana)
 ---------------------------
 | Session                               | Time          | Location              |
-|-------------------------------------------------------|                       |
+|:--------------------------------------|:--------------|:----------------------|
 | Opening remarks                       |  2:00 - 2:15  | Zoom                  |
 | Keynote 1 (w/ Q&A) -- Willem Zuidema  |  2:15 - 3:00  | Zoom                  |
 | Break                                                 |                       |
