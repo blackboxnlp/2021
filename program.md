@@ -11,7 +11,35 @@ You can find the programme [here](https://docs.google.com/spreadsheets/d/1SLJ07n
 
 Summary of the programme (Time indications: Punta Cana)
 ---------------------------
-| Session                               | Time          | Location              |
+**02:00 - 02:15** Opening remarks. Zoom.  
+**02:15 - 03:00** Keynote 1 (w/ Q&A): Willem Zuidema. Zoom.  
+**03:00 - 03:15** Break.  
+**03:15 - 04:00** Oral presentation session 1. Zoom.  
+**04:00 - 04:30** Break.  
+**04:30 - 06:00** Poster session 1. Gather.town.  
+**06:00 - 06:15** Break.  
+**06:15 - 07:00** Oral presentation session 2. Zoom.  
+**07:00 - 07:30** Break.         
+**07:30 - 08:00** Keynote 2 (w/o Q&A): Ana Marasović. Zoom.  
+**08:00 - 08:30** Keynote 3 (w/o Q&A): Sara Hooker. Zoom.  
+**08:30 - 08:45** Closing -- virtual program. Zoom.  
+**Break. Hybrid program starts.**   
+**09:00 - 09:15** Opening remarks and best paper award. On-site & Zoom.   
+**09:15 - 10:00** Keynote 4 (w/ Q&A): Willem Zuidema. On-site & Zoom.   
+**10:00 - 10:30** Oral presentation session 3. On-site & Zoom.   
+**10:30 - 11:00** Coffee break.  
+**11:00 - 12:00** Poster session 2. Gather.town.   
+**12:00 - 13:00** Lunch break.   
+**13:00 - 13:45** Keynote 5 (w/ Q&A): Sara Hooker. On-site & Zoom.   
+**13:45 - 14:15** Oral presentation session 4. On-site & Zoom.   
+**14:15 - 14:45** Coffee break.  
+**14:45 - 16:15** Poster session 3. On-site & Gather.town.  
+**16:15 - 14:45** Coffee break.  
+**16:45 - 17:15** Oral presentation session 5. On-site & Zoom.  
+**17:15 - 18:00** Keynote 6 (w/ Q&A): Ana Marasović. On-site & Zoom.  
+**18:00 - 18:15** Closing remarks. On-site & Zoom.  
+
+<!-- | Session                               | Time          | Location              |
 |:--------------------------------------|:--------------|:----------------------|
 | Opening remarks                       |  2:00 - 2:15  | Zoom                  |
 | Keynote 1 (w/ Q&A) -- Willem Zuidema  |  2:15 - 3:00  | Zoom                  |
@@ -40,8 +68,8 @@ Summary of the programme (Time indications: Punta Cana)
 | Poster session 3                      | 14:45 - 16:15 | On-site & gather.town |
 | Coffee break                                          |                       |
 | Oral presentation session 5           | 16:45 - 17:15 | On-site & Zoom        |
-| Keynote 6 (w/o Q&A) -- Ana Marasović  | 17:15 - 18:00 | On-site & Zoom        |
-| Closing remarks                       | 18:00 - 18:15 | On-site & Zoom        |
+| Keynote 6 (w/ Q&A) -- Ana Marasović   | 17:15 - 18:00 | On-site & Zoom        |
+| Closing remarks                       | 18:00 - 18:15 | On-site & Zoom        | -->
 
 
 
