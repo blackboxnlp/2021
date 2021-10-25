@@ -100,7 +100,7 @@ Oral presentation session 5 (Time indications: Punta Cana)
 - **16:45 - 17:00** _Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings_. Laura Aina and Tal Linzen.
 - **17:00 - 17:15** _The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation_. Hendrik Schuff, Hsiu-Yu Yang, Heike Adel and Ngoc Thang Vu.
 
-Poster session 1 (gather.town)
+<!-- Poster session 1 (gather.town)
 ----------------
 **Archival papers**
 - _Do Language Models Know the Way to Rome?_ Bastien Liétard, Mostafa Abdou and Anders Søgaard.
@@ -220,4 +220,4 @@ Poster session 3 (gather.town)
 - _Probing Across Time: What Does RoBERTa Know and When?_ Leo Z. Liu, Yizhong Wang, Jungo Kasai, Hannaneh Hajishirzi and Noah A. Smith.
 - _Probing Pre-trained Language Models for Semantic Attributes and their Values_. Meriem Beloucif.
 - _Generating Realistic Natural Language Counterfactuals_. Marcel Robeer.
-- _Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates_. Xiaochuang Han and Yulia Tsvetkov.
+- _Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates_. Xiaochuang Han and Yulia Tsvetkov. -->
