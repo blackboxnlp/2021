@@ -141,7 +141,7 @@ He authored three papers on the topic of NLP neural model interpretation, lookin
 He co-organised the TREC Live QA competition for its three years of existence (2015–2017) including administering the real-time challenge, and served as publicity and social media co-chair at NAACL 2019.
 
 ### Hassan Sajjad 
-Hassan Sajjadd (hsajjad@hbku.edu.qa) is a research scientist at the Arabic Language Technologies group, Qatar Computing Research Institute - HBKU. 
+Hassan Sajjad (hsajjad@hbku.edu.qa) is a research scientist at the Arabic Language Technologies group, Qatar Computing Research Institute - HBKU. 
 His recent research focuses on developing methods to analyze and interpret neural network models both at the representation-level and at the individual neuron-level. 
 His work on the analysis of deep models is recognized at various prestigious research venues such as ACL, NAACL, ICLR, and AAAI.  
 
