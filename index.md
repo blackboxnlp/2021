@@ -151,12 +151,6 @@ He investigates whether neural networks can be employed as computational models 
 He authored two articles on investigating the propensity of language models to capture syntactic and semantic phenomena, presented at EMNLP and ACL. 
 At the first edition of BlackBoxNLP, he won the Best Paper Award with his work on probing and improving an LSTM’s ability to track number agreement information.
 
-## Program committee
-
-## Workshop programme 
-
-TBD
-
 
 ## Anti-Harassment Policy
 BlackboxNLP 2021 adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
