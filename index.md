@@ -136,7 +136,7 @@ He has directed the CNRS Laboratoire de SciencesCognitives et Psycholinguistique
 He is the recipient of an Advanced ERC grant, theorganiser of the Zero Resource Speech Challenge (2015, 2017, 2019, 2020), the Intuitive Physics Benchmark (2019) and led in 2017 a Jelinek Summer Workshop at CMU on multimodal speechlearning
 
 ### Yuval Pinter
-Yuval Pinter (me@yuvalpinter.com) is an incoming Senior Lecturer in the Computer Science department at Ben-Gurion University. 
+Yuval Pinter (me@yuvalpinter.com) is a Senior Lecturer in the Computer Science department at Ben-Gurion University. 
 He authored three papers on the topic of NLP neural model interpretation, looking into attention modules and character-level LSTMs. 
 He co-organised the TREC Live QA competition for its three years of existence (2015–2017) including administering the real-time challenge, and served as publicity and social media co-chair at NAACL 2019.
 
