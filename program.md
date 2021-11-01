@@ -126,7 +126,7 @@ Poster session 1 (gather.town)
 - _Explaining Classes through Word Attributions_. Samuel Rönnqvist, Amanda Myntti, Aki-Juhani Kyröläinen, Sampo Pyysalo, Veronika Laippala and Filip Ginter.
 
 **Findings papers**
-- _Distilling Word Meaning in Context from Pre-trained Language Models_. Chuhan Wu, Fangzhao Wu, Yang Yu, Tao Qi, Yongfeng Huang and Qi Liu.
+- _Distilling Word Meaning in Context from Pre-trained Language Models_. Yuki Arase and Tomoyuki Kajiwara.
 - _Probing Pre-trained Language Models for Semantic Attributes and their Values_. Meriem Beloucif.
 
 
@@ -174,7 +174,7 @@ Poster session 2 (gather.town)
 
 **Findings papers**
 - _Don't Discard All the Biased Instances: Investigating a Core Assumption in Dataset Bias Mitigation Techniques_.
-- _Distilling Word Meaning in Context from Pre-trained Language Models_. Chuhan Wu, Fangzhao Wu, Yang Yu, Tao Qi, Yongfeng Huang, Qi Liu.
+- _Distilling Word Meaning in Context from Pre-trained Language Models_. Yuki Arase and Tomoyuki Kajiwara.
 - _Probing Pre-trained Language Models for Semantic Attributes and their Values_. Meriem Beloucif.
 - _Making Heads and Tails of Models with Marginal Calibration for Sparse Tagsets_. Michael Kranzlein, Nelson F. Liu and Nathan Schneider.
 
