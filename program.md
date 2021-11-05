@@ -14,11 +14,11 @@ Summary of the programme (Time indications: Punta Cana)
 **02:00 - 02:15** Opening remarks. Zoom.  
 **02:15 - 03:00** Keynote 1 (w/ Q&A): Willem Zuidema. Zoom.  
 **03:00 - 03:15** Break.  
-**03:15 - 04:00** Oral presentation session 1. Zoom.  
+**03:15 - 04:00** Oral presentation session 1 (w/ Q&A). Zoom.  
 **04:00 - 04:30** Break.  
 **04:30 - 06:00** Poster session 1. Gather.town.  
 **06:00 - 06:15** Break.  
-**06:15 - 07:00** Oral presentation session 2. Zoom.  
+**06:15 - 07:00** Oral presentation session 2 (w/ Q&A). Zoom.  
 **07:00 - 07:30** Break.         
 **07:30 - 08:00** Keynote 2 (w/o Q&A): Ana Marasović. Zoom.  
 **08:00 - 08:30** Keynote 3 (w/o Q&A): Sara Hooker. Zoom.  
@@ -26,16 +26,16 @@ Summary of the programme (Time indications: Punta Cana)
 **Break. Hybrid program starts.**   
 **09:00 - 09:15** Opening remarks and best paper award. On-site & Zoom.   
 **09:15 - 10:00** Keynote 4 (w/ Q&A): Willem Zuidema. On-site & Zoom.   
-**10:00 - 10:30** Oral presentation session 3. On-site & Zoom.   
+**10:00 - 10:30** Oral presentation session 3 (w/ Q&A). On-site & Zoom.   
 **10:30 - 11:00** Coffee break.  
 **11:00 - 12:00** Poster session 2. Gather.town.   
 **12:00 - 13:00** Lunch break.   
 **13:00 - 13:45** Keynote 5 (w/ Q&A): Sara Hooker. On-site & Zoom.   
-**13:45 - 14:15** Oral presentation session 4. On-site & Zoom.   
+**13:45 - 14:15** Oral presentation session 4 (w/ Q&A). On-site & Zoom.   
 **14:15 - 14:45** Coffee break.  
 **14:45 - 16:15** Poster session 3. On-site & Gather.town.  
 **16:15 - 14:45** Coffee break.  
-**16:45 - 17:15** Oral presentation session 5. On-site & Zoom.  
+**16:45 - 17:15** Oral presentation session 5 (w/ Q&A). On-site & Zoom.  
 **17:15 - 18:00** Keynote 6 (w/ Q&A): Ana Marasović. On-site & Zoom.  
 **18:00 - 18:15** Closing remarks. On-site & Zoom.  
 
@@ -75,30 +75,30 @@ Summary of the programme (Time indications: Punta Cana)
 
 Oral presentation session 1 (Time indications: Punta Cana)
 ---------------------------
-- **3:15 - 3:30** _To what extent do human explanations of model behavior align with actual model behavior?_ Grusha Prasad, Yixin Nie, Mohit Bansal, Robin Jia, Douwe Kiela and Adina Williams.
-- **3:30 - 3:45** _Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings_. Laura Aina and Tal Linzen.
-- **3:45 - 4:00** _The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation_. Hendrik Schuff, Hsiu-Yu Yang, Heike Adel and Ngoc Thang Vu.
+- **3:15 - 3:30 (Live, w/ Q&A)**  _To what extent do human explanations of model behavior align with actual model behavior?_ Grusha Prasad, Yixin Nie, Mohit Bansal, Robin Jia, Douwe Kiela and Adina Williams.
+- **3:30 - 3:45 (Live, w/ Q&A)** _Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings_. Laura Aina and Tal Linzen.
+- **3:45 - 4:00 (Live, w/ Q&A)** _The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation_. Hendrik Schuff, Hsiu-Yu Yang, Heike Adel and Ngoc Thang Vu.
 
 Oral presentation session 2 (Time indications: Punta Cana)
 ---------------------------
-- **6:15 - 6:30** _On the Limits of Minimal Pairs in Contrastive Evaluation_. Jannis Vamvas and Rico Sennrich.
-- **6:30 - 6:45** _Test Harder than You Train: Probing with Extrapolation Splits_. Jenny Kunz and Marco Kuhlmann.
+- **6:15 - 6:30 (w/ Q&A)** _On the Limits of Minimal Pairs in Contrastive Evaluation_. Jannis Vamvas and Rico Sennrich.
+- **6:30 - 6:45 (Live, w/ Q&A)** _Test Harder than You Train: Probing with Extrapolation Splits_. Jenny Kunz and Marco Kuhlmann.
 - **6:45 - 7:00** _What Models Know About Their Attackers: Deriving Attacker Information From Latent Representations_. Zhouhang Xie, Jonathan Brophy, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Zayd Hammoudeh, Daniel Lowd and Sameer Singh.
 
 Oral presentation session 3 (Time indications: Punta Cana)
 ---------------------------
-- **10:00 - 10:15** _On the Limits of Minimal Pairs in Contrastive Evaluation_. Jannis Vamvas and Rico Sennrich.
-- **10:15 - 10:30** _Test Harder than You Train: Probing with Extrapolation Splits_. Jenny Kunz and Marco Kuhlmann.
+- **10:00 - 10:15 (w/ Q&A)** _On the Limits of Minimal Pairs in Contrastive Evaluation_. Jannis Vamvas and Rico Sennrich.
+- **10:15 - 10:30 (Live, w/ Q&A)** _Test Harder than You Train: Probing with Extrapolation Splits_. Jenny Kunz and Marco Kuhlmann.
 
 Oral presentation session 4 (Time indications: Punta Cana)
 ---------------------------
 - **13:45 - 14:00** _What Models Know About Their Attackers: Deriving Attacker Information From Latent Representations_. Zhouhang Xie, Jonathan Brophy, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Zayd Hammoudeh, Daniel Lowd and Sameer Singh.
-- **14:00 - 14:15** _To what extent do human explanations of model behavior align with actual model behavior?_ Grusha Prasad, Yixin Nie, Mohit Bansal, Robin Jia, Douwe Kiela and Adina Williams.
+- **14:00 - 14:15 (Live, w/ Q&A)** _To what extent do human explanations of model behavior align with actual model behavior?_ Grusha Prasad, Yixin Nie, Mohit Bansal, Robin Jia, Douwe Kiela and Adina Williams.
 
 Oral presentation session 5 (Time indications: Punta Cana)
 ---------------------------
-- **16:45 - 17:00** _Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings_. Laura Aina and Tal Linzen.
-- **17:00 - 17:15** _The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation_. Hendrik Schuff, Hsiu-Yu Yang, Heike Adel and Ngoc Thang Vu.
+- **16:45 - 17:00 (Live, w/ Q&A)** _Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings_. Laura Aina and Tal Linzen.
+- **17:00 - 17:15 (Live, w/ Q&A)** _The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation_. Hendrik Schuff, Hsiu-Yu Yang, Heike Adel and Ngoc Thang Vu.
 
 Poster session 1 (gather.town)
 ----------------
