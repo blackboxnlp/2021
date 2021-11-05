@@ -9,35 +9,37 @@ Poster sessions will be held on Gather.town.
 
 <!-- You can find the programme [here](https://docs.google.com/spreadsheets/d/1SLJ07nMi6VoVOg5iEPSOv5v4cq_WopD8T0FJlr7X_wU/edit?usp=sharing). -->
 
-Summary of the programme (Time indications: Punta Cana)
+Summary of the programme
 ---------------------------
-**02:00 - 02:15** Opening remarks. Zoom.  
-**02:15 - 03:00** Keynote 1 (w/ Q&A): Willem Zuidema. Zoom.  
-**03:00 - 03:15** Break.  
-**03:15 - 04:00** Oral presentation session 1 (w/ Q&A). Zoom.  
-**04:00 - 04:30** Break.  
-**04:30 - 06:00** Poster session 1. Gather.town.  
-**06:00 - 06:15** Break.  
-**06:15 - 07:00** Oral presentation session 2 (w/ Q&A). Zoom.  
-**07:00 - 07:30** Break.         
-**07:30 - 08:00** Keynote 2 (w/o Q&A): Ana Marasović. Zoom.  
-**08:00 - 08:30** Keynote 3 (w/o Q&A): Sara Hooker. Zoom.  
-**08:30 - 08:45** Closing -- virtual program. Zoom.  
-**Break. Hybrid program starts.**   
-**09:00 - 09:15** Opening remarks and best paper award. On-site & Zoom.   
-**09:15 - 10:00** Keynote 4 (w/ Q&A): Willem Zuidema. On-site & Zoom.   
-**10:00 - 10:30** Oral presentation session 3 (w/ Q&A). On-site & Zoom.   
-**10:30 - 11:00** Coffee break.  
-**11:00 - 12:00** Poster session 2. Gather.town.   
-**12:00 - 13:00** Lunch break.   
-**13:00 - 13:45** Keynote 5 (w/ Q&A): Sara Hooker. On-site & Zoom.   
-**13:45 - 14:15** Oral presentation session 4 (w/ Q&A). On-site & Zoom.   
-**14:15 - 14:45** Coffee break.  
-**14:45 - 16:15** Poster session 3. On-site & Gather.town.  
-**16:15 - 14:45** Coffee break.  
-**16:45 - 17:15** Oral presentation session 5 (w/ Q&A). On-site & Zoom.  
-**17:15 - 18:00** Keynote 6 (w/ Q&A): Ana Marasović. On-site & Zoom.  
-**18:00 - 18:15** Closing remarks. On-site & Zoom.  
+**San Francisco (UTC-8) | Punta Cana (UTC-4) | London (UTC) | Beijing (UTC+8)**  
+  
+**22:00 - 22:15 | 02:00 - 02:15 | 06:00 - 06:15 | 14:00 - 14:15** Opening remarks. Zoom.  
+**22:15 - 23:00 | 02:15 - 03:00 | 06:15 - 07:00 | 14:15 - 15:00** Keynote 1 (w/ Q&A): Willem Zuidema. Zoom.  
+**23:00 - 23:15 | 03:00 - 03:15 | 07:00 - 07:15 | 15:00 - 15:15** Break.  
+**23:15 - 00:00 | 03:15 - 04:00 | 07:15 - 08:00 | 15:15 - 16:00** Oral presentation session 1 (w/ Q&A). Zoom.  
+**00:00 - 00:30 | 04:00 - 04:30 | 08:00 - 08:30 | 16:00 - 16:30** Break.  
+**00:30 - 02:00 | 04:30 - 06:00 | 08:30 - 10:00 | 16:30 - 18:00** Poster session 1. Gather.town.  
+**02:00 - 02:15 | 06:00 - 06:15 | 10:00 - 10:15 | 18:00 - 18:15** Break.  
+**02:15 - 03:00 | 06:15 - 07:00 | 10:15 - 11:00 | 18:15 - 19:00** Oral presentation session 2 (w/ Q&A). Zoom.  
+**03:00 - 03:30 | 07:00 - 07:30 | 11:00 - 11:30 | 19:00 - 19:30** Break.  
+**03:30 - 04:00 | 07:30 - 08:00 | 11:30 - 12:00 | 19:30 - 20:00** Keynote 2 (w/o Q&A): Ana Marasović. Zoom.  
+**04:00 - 04:30 | 08:00 - 08:30 | 12:00 - 12:30 | 20:00 - 20:30** Keynote 3 (w/o Q&A): Sara Hooker. Zoom.  
+**04:30 - 04:45 | 08:30 - 08:45 | 12:30 - 12:45 | 20:30 - 20:45** Closing -- virtual program. Zoom.  
+Break. Hybrid program starts.  
+**05:00 - 05:15 | 09:00 - 09:15 | 13:00 - 13:15 | 21:00 - 21:15** Opening remarks and best paper award. On-site & Zoom.  
+**05:15 - 06:00 | 09:15 - 10:00 | 13:15 - 14:00 | 21:15 - 22:00** Keynote 4 (w/ Q&A): Willem Zuidema. On-site & Zoom.  
+**06:00 - 06:30 | 10:00 - 10:30 | 14:00 - 14:30 | 22:00 - 22:30** Oral presentation session 3 (w/ Q&A). On-site & Zoom.  
+**06:30 - 07:00 | 10:30 - 11:00 | 14:30 - 15:00 | 22:30 - 23:00** Coffee break.  
+**07:00 - 08:00 | 11:00 - 12:00 | 15:00 - 16:00 | 23:00 - 00:00** Poster session 2. Gather.town.  
+**08:00 - 09:00 | 12:00 - 13:00 | 16:00 - 17:00 | 00:00 - 01:00** Lunch break.  
+**09:00 - 09:45 | 13:00 - 13:45 | 17:00 - 17:45 | 01:00 - 01:45** Keynote 5 (w/ Q&A): Sara Hooker. On-site & Zoom.  
+**09:45 - 10:15 | 13:45 - 14:15 | 17:45 - 18:15 | 01:45 - 02:15** Oral presentation session 4 (w/ Q&A). On-site & Zoom.  
+**10:15 - 10:45 | 14:15 - 14:45 | 18:15 - 18:45 | 02:15 - 02:45** Coffee break.  
+**10:45 - 12:15 | 14:45 - 16:15 | 18:45 - 20:15 | 02:45 - 04:15** Poster session 3. On-site & Gather.town.  
+**12:15 - 10:45 | 16:15 - 14:45 | 20:15 - 18:45 | 04:15 - 02:45** Coffee break.  
+**12:45 - 13:15 | 16:45 - 17:15 | 20:45 - 21:15 | 04:45 - 05:15** Oral presentation session 5 (w/ Q&A). On-site & Zoom.  
+**13:15 - 14:00 | 17:15 - 18:00 | 21:15 - 22:00 | 05:15 - 06:00** Keynote 6 (w/ Q&A): Ana Marasović. On-site & Zoom.  
+**14:00 - 14:15 | 18:00 - 18:15 | 22:00 - 22:15 | 06:00 - 06:15** Closing remarks. On-site & Zoom. 
 
 <!-- | Session                               | Time          | Location              |
 |:--------------------------------------|:--------------|:----------------------|
