@@ -25,7 +25,7 @@ The fourth edition of BlackboxNLP will be collocated with EMNLP 2021.
 **03:30 - 04:00 | 07:30 - 08:00 | 11:30 - 12:00 | 19:30 - 20:00** Keynote 2 (w/o Q&A): Ana Marasović. Zoom.  
 **04:00 - 04:30 | 08:00 - 08:30 | 12:00 - 12:30 | 20:00 - 20:30** Keynote 3 (w/o Q&A): Sara Hooker. Zoom.  
 **04:30 - 04:45 | 08:30 - 08:45 | 12:30 - 12:45 | 20:30 - 20:45** Closing -- virtual program. Zoom.  
-Break. Hybrid program starts.  
+Break. Hybrid program starts (On-site sessions in room _Bavaro 2_).  
 **05:00 - 05:15 | 09:00 - 09:15 | 13:00 - 13:15 | 21:00 - 21:15** Opening remarks and best paper award. On-site & Zoom.  
 **05:15 - 06:00 | 09:15 - 10:00 | 13:15 - 14:00 | 21:15 - 22:00** Keynote 4 (w/ Q&A): Willem Zuidema. On-site & Zoom.  
 **06:00 - 06:30 | 10:00 - 10:30 | 14:00 - 14:30 | 22:00 - 22:30** Oral presentation session 3 (w/ Q&A). On-site & Zoom.  
