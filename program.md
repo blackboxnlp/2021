@@ -77,7 +77,7 @@ Break. Hybrid program starts.
 
 Oral presentation session 1 (Time indications: Punta Cana)
 ---------------------------
-- **3:15 - 3:30 (Live, w/ Q&A)**  _To what extent do human explanations of model behavior align with actual model behavior?_ Grusha Prasad, Yixin Nie, Mohit Bansal, Robin Jia, Douwe Kiela and Adina Williams.
+- **3:15 - 3:30**  _To what extent do human explanations of model behavior align with actual model behavior?_ Grusha Prasad, Yixin Nie, Mohit Bansal, Robin Jia, Douwe Kiela and Adina Williams.
 - **3:30 - 3:45 (Live, w/ Q&A)** _Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings_. Laura Aina and Tal Linzen.
 - **3:45 - 4:00 (Live, w/ Q&A)** _The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation_. Hendrik Schuff, Hsiu-Yu Yang, Heike Adel and Ngoc Thang Vu.
 
