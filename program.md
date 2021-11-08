@@ -6,6 +6,7 @@ the second half is hosted both on-site and online. All plenary sessions will be 
 and followed by a live Q&A (unless the schedule indicates otherwise). Questions can be asked in the Zoom chat during the presentations. 
 Poster sessions will be held on Gather.town. 
 **The links to the zoom session and Gather.town space can be found on the Underline page of the workshop** (only accessible with conference registration).
+In Punta Cana, we'll be in room **Bavaro 2**.
 
 <!-- You can find the programme [here](https://docs.google.com/spreadsheets/d/1SLJ07nMi6VoVOg5iEPSOv5v4cq_WopD8T0FJlr7X_wU/edit?usp=sharing). -->
 
