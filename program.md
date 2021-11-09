@@ -79,8 +79,8 @@ Break. Hybrid program starts (On-site sessions in room _Bavaro 2_).
 Oral presentation session 1 (Time indications: Punta Cana)
 ---------------------------
 - **3:15 - 3:30**  _To what extent do human explanations of model behavior align with actual model behavior?_ Grusha Prasad, Yixin Nie, Mohit Bansal, Robin Jia, Douwe Kiela and Adina Williams.
-- **3:30 - 3:45 (Live, w/ Q&A)** _Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings_. Laura Aina and Tal Linzen.
-- **3:45 - 4:00 (Live, w/ Q&A)** _The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation_. Hendrik Schuff, Hsiu-Yu Yang, Heike Adel and Ngoc Thang Vu.
+- **3:30 - 3:45 (Live, w/ Q&A)** _Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings_. Hendrik Schuff, Hsiu-Yu Yang, Heike Adel and Ngoc Thang Vu.
+- **3:45 - 4:00 (Live, w/ Q&A)** _The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation_. Laura Aina and Tal Linzen.
 
 Oral presentation session 2 (Time indications: Punta Cana)
 ---------------------------
@@ -100,8 +100,8 @@ Oral presentation session 4, Zoom + Room Bavaro 2 (Time indications: Punta Cana)
 
 Oral presentation session 5, Zoom + Room Bavaro 2 (Time indications: Punta Cana)
 ---------------------------
-- **16:45 - 17:00 (Live, w/ Q&A)** _Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings_. Laura Aina and Tal Linzen.
-- **17:00 - 17:15 (Live, w/ Q&A)** _The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation_. Hendrik Schuff, Hsiu-Yu Yang, Heike Adel and Ngoc Thang Vu.
+- **16:45 - 17:00 (Live, w/ Q&A)** _Does External Knowledge Help Explainable Natural Language Inference? Automatic Evaluation vs. Human Ratings_. Hendrik Schuff, Hsiu-Yu Yang, Heike Adel and Ngoc Thang Vu.
+- **17:00 - 17:15 (Live, w/ Q&A)** _The Language Model Understood the Prompt was Ambiguous: Probing Syntactic Uncertainty Through Generation_. Laura Aina and Tal Linzen.
 
 Poster session 1 (gather.town)
 ----------------
