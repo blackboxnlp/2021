@@ -121,6 +121,7 @@ Poster session 1 (gather.town)
 - _On the Language-specificity of Multilingual BERT and the Impact of Fine-tuning_. Marc Tanti, Lonneke van der Plas, Claudia Borg and Albert Gatt.
 - _Language Models Use Monotonicity to Assess NPI Licensing_. Jaap Jumelet, Milica Denic, Jakub Szymanik, Dieuwke Hupkes and Shane Steinert-Threlkeld.
 - _Testing the linguistics of transformer generalizations_. Saliha Muradoglu and Mans Hulden.
+- _Do Language Models know the Way to Rome?_ Bastien Liétard, Mostafa Abdou and Anders Søgaard.
 
 **Extended abstracts**
 - _BPE affects Training Data Memorization by Transformer Language Models_. Eugene Kharitonov, Marco Baroni and Dieuwke Hupkes.
