@@ -116,7 +116,7 @@ Poster session 1 (gather.town)
 - _How Familiar Does That Sound? Cross-Lingual Representational Similarity Analysis of Acoustic Word Embeddings_. Badr M. Abdullah, Iuliia Zaitova, Tania Avgustinova, Bernd Möbius and Dietrich Klakow.
 - _Exploratory Model Analysis Using Data-Driven Neuron Representations_. Daisuke Oba, Naoki Yoshinaga and Masashi Toyoda.
 - _ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality_. Marianna Apidianaki and Aina Garí Soler.
-- _Discrete representations in neural models of spoken language_. Bertrand Higy, Lieke Gelderloos, Afra Alishahi and Grzegorz Chrupała.
+<!-- - _Discrete representations in neural models of spoken language_. Bertrand Higy, Lieke Gelderloos, Afra Alishahi and Grzegorz Chrupała. -->
 - _Multi-Layer Random Perturbation Training for improving Model Generalization Efficiently_. Lis Kanashiro Pereira, Yuki Taya and Ichiro Kobayashi.
 - _On the Language-specificity of Multilingual BERT and the Impact of Fine-tuning_. Marc Tanti, Lonneke van der Plas, Claudia Borg and Albert Gatt.
 - _Language Models Use Monotonicity to Assess NPI Licensing_. Jaap Jumelet, Milica Denic, Jakub Szymanik, Dieuwke Hupkes and Shane Steinert-Threlkeld.
@@ -152,7 +152,7 @@ Poster session 2 (gather.town)
 - _The Acceptability Delta Criterion: Testing Knowledge of Language using the Gradience of Sentence Acceptability_. Héctor Vázquez Martínez.
 - _Analyzing BERT's Knowledge of Hypernymy via Prompting_. Michael Hanna and David Mareček.
 - _ALL Dolphins Are Intelligent and SOME Are Friendly: Probing BERT for Nouns’ Semantic Properties and their Prototypicality_. Marianna Apidianaki and Aina Garí Soler.
-- _Discrete representations in neural models of spoken language_. Bertrand Higy, Lieke Gelderloos, Afra Alishahi and Grzegorz Chrupała.
+<!-- - _Discrete representations in neural models of spoken language_. Bertrand Higy, Lieke Gelderloos, Afra Alishahi and Grzegorz Chrupała. -->
 - _Word Equations: Inherently Interpretable Sparse Word Embeddings through Sparse Coding_. Adly Templeton.
 - _Learning Mathematical Properties of Integers_. Maria Ryskina and Kevin Knight.
 - _Perturbing Inputs for Fragile Interpretations in Deep Natural Language Processing_. Sanchit Sinha, Hanjie Chen, Arshdeep Sekhon, Yangfeng Ji and Yanjun Qi. 
