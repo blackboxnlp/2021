@@ -1,14 +1,18 @@
 # BlackboxNLP 2021
 
-The fourth edition of BlackboxNLP will be collocated with EMNLP 2021.
+The fourth edition of BlackboxNLP is collocated with EMNLP 2021.
 
 ## Important dates
 
-- ~~August 5, 2021 -- Submission deadline.~~
-- ~~August 27, 2021 -- Retraction of workshop papers accepted for EMNLP.~~
-- ~~September 3, 2021 -- Notification of acceptance.~~
-- ~~September 15, 2021 -- Camera-ready papers due.~~
+- August 5, 2021 -- Submission deadline.
+- August 27, 2021 -- Retraction of workshop papers accepted for EMNLP.
+- September 3, 2021 -- Notification of acceptance.
+- September 15, 2021 -- Camera-ready papers due.
 - November 11, 2021 -- Workshop.
+
+## Best paper award
+
+The winner of the Best Paper Award is the paper ``On the Limits of Minimal Pairs in Contrastive Evaluation'' by Jannis Vamvas and Rico Sennrich.
 
 ## Programme
 **San Francisco (UTC-8) | Punta Cana (UTC-4) | London (UTC) | Beijing (UTC+8)**  
